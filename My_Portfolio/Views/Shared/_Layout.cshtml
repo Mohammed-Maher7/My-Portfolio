@@ -1,0 +1,42 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+        <link rel="stylesheet" href="~/bootstrap/css/style1.css">
+        <link rel="stylesheet" href="~/bootstrap/css/bootstrap1.min.css">
+        <title>Mohammed Maher</title>
+    </head>
+    <body>
+        <header>
+            <a class="logo" href="#">Mohammed</a>
+            <nav class="navigation">
+                <a asp-controller="Home" asp-action="HOME">Home</a>
+                <a asp-controller="Home" asp-action="SKILLS">Skills</a>
+                <a asp-controller="Home" asp-action="PROJRCTS">Projects</a>
+                <a asp-controller="Home" asp-action="CONTACTME">Contact me</a>
+            </nav>
+        </header>
+
+        @*Body*@
+        <section class="main">
+            <div>
+                @RenderBody()
+            </div>
+        </section>
+            
+        @*Footer*@
+        <center class="fixed-bottom">
+            <p>&copy; @DateTime.Now.Year Mohammed Maher .All Rights Reversed. </p>
+        </center>
+
+    </body>
+
+
+
+    </html>
+}

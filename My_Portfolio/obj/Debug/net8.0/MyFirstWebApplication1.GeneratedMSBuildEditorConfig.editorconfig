@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyFirstWebApplication1
+build_property.RootNamespace = MyFirstWebApplication1
+build_property.ProjectDir = D:\ITC\MVC\MVC 4\My Portfolio\MyFirstWebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ITC\MVC\MVC 4\My Portfolio\MyFirstWebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Home/ABOUTME.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBQk9VVE1FLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Home/AFTERSUMBIT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBRlRFUlNVTUJJVC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Home/CONTACTME.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDT05UQUNUTUUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Home/HOME.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIT01FLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Home/PROJRCTS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQUk9KUkNUUy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Home/SKILLS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTS0lMTFMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ITC/MVC/MVC 4/My Portfolio/MyFirstWebApplication1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

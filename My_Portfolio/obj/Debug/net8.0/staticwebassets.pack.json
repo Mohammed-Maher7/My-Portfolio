@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\Images\\Bakground.jpg",
+      "PackagePath": "staticwebassets\\Images\\Bakground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\css\\bootstrap1.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\css\\style1.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hp\\OneDrive\\Documents\\GitHub\\My-Portfolio\\My_Portfolio\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.My_Portfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.My_Portfolio.props",
+      "PackagePath": "build\\My_Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.My_Portfolio.props",
+      "PackagePath": "buildMultiTargeting\\My_Portfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.My_Portfolio.props",
+      "PackagePath": "buildTransitive\\My_Portfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
